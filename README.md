@@ -17,6 +17,8 @@ Be aware that you may have to install the required node modules by running `npm 
 
 Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
+You can also check it out remotely via [sandbox](https://li65wv.csb.app/)
+
 ## Expected output
 Open the developer's tools in your browser and go to the `CONSOLE` tab.\
 Answer the questions of the form by filling the required fields.
